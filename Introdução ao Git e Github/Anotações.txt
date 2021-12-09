@@ -1,0 +1,9 @@
+Introdução ao Git e GitHub
+#teamJavaCog
+#contratodecompromisso
+
+Link para download do Git: https://git-scm.com/downloads
+
+Link para a documentação do Git: https://git-scm.com/docs
+
+o Git Bash é um terminal extendido para otimizar o uso do Git.
